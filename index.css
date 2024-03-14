@@ -8,9 +8,14 @@ body{
     color: #3c4043;
     font-family: "Google Sans","Roboto",Arial,sans-serif;
     padding: 61px 0px;
+}
+.contenedor{
     width: 310px;
-    height: 80vh;
+    height: 90vh;
     border-right: 1px solid rgb(222, 221, 221);
+}
+::-webkit-scrollbar {
+    display: none;
 }
 ul{
     display: flex;
